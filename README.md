@@ -8,7 +8,7 @@
 
 
 ## ⚡🙋‍♂️ About Me
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" height="180px" align="right" />
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" height="150px" align="right" />
 </br>
 
 - 💡 I'm an Undergraduate at SLIIT.
