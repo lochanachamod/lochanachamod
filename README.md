@@ -13,7 +13,7 @@
 
 - 💡 I'm an Undergraduate at SLIIT.
 - 📖 I’m currently learning oop with java.
-- ❄️ Ask me About Web Development|OOC.
+- ❄️ Ask me About Web Development.
 - 📫 How to reach me lochanachamod3@gmail.com/lochanachamod7@gmail.com.
 
 <hr>
