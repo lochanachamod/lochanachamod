@@ -1,7 +1,26 @@
-<h1 align="center">Hi 👋, I'm L.B.Lochana Chamod</h1>
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
+# Hey there👋, Welcome to my Github Profile
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lochanachamod&label=Profile%20views&color=0e75b6&style=flat" alt="lochanachamod" /> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Lochana;Data+Science+Enthusiast...;Tech+Blogger...;Web+Developer..."/>
+ 
+ <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
+
+
+
+
+## ⚡🙋‍♂️ About Me
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" height="180px" align="right" />
+</br>
+
+- 💡 I'm an Undergraduate at SLIIT.
+- 📖 I’m currently learning oop with java.
+- ❄️ Ask me About Web Development|OOC.
+- 📫 How to reach me lochanachamod3@gmail.com/lochanachamod7@gmail.com.
+
+<hr>
+
+</br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lochanachamod&label=Profile%20views&color=0e75b6&style=flat" alt="lochanachamod" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lochanachamod" alt="lochanachamod" /></a> </p>
 
