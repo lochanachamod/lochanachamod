@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Lochana;CS+Undergraduate...;AI+Enthusiast...;Web+Developer...;Full-Stack+Developer..."/>
  
- <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
+ <p>- <i>A comp-sci undergraduate and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
 
 
 
@@ -11,10 +11,19 @@
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" height="150px" align="right" />
 </br>
 
-- 💡 I'm an Undergraduate at SLIIT.
-- 📖 I’m currently learning oop with java.
+- 💡 I'm an Undergraduate at Sliit City Uni.
+- 📖 **CS Undergraduate | Full-Stack Developer & AI Enthusiast**  
+   SLIIT City Uni → Higher Dip in IT → BSc (Hons) Computer Science (UoB)
 - ❄️ Ask me About Web Development.
 - 📫 How to reach me lochanachamod3@gmail.com/lochanachamod7@gmail.com.
+## 🔭 Current focus
+- Building full-stack web apps (React / Node)
+- Learning AI/ML with Python & TensorFlow
+## 🧰 Skills
+- Languages: JavaScript, Python, Java, SQL
+- Web: HTML, CSS, React, Node.js, Express
+- Data: Pandas, NumPy, scikit-learn
+- Tools: Git, VS Code, Jupyter
 
 <hr>
 
