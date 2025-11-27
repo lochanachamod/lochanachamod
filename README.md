@@ -18,33 +18,24 @@
 
 <table border="0" align="center">
   <tr>
-    <td width="350" valign="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+    <td width="300" align="center" valign="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" />
     </td>
-    <td width="500" valign="center">
-      <h3>👋 Hi, I'm Lochana.</h3>
-      <p>
-        I am a <b>Computer Science Undergraduate</b> (University of Bedfordshire Pathway) specializing in bridging the gap between mobile engineering and data science.
-      </p>
-      <p>
-        Currently seeking an <b>Industrial Training Internship</b> to apply my skills in Java, Algorithms, and Full-Stack development.
-      </p>
-      <p>
-        🔭 <b>I’m currently working on:</b> Offline-First Mobile Architectures<br/>
-        🌱 <b>I’m currently learning:</b> Advanced Machine Learning Pipelines<br/>
-        ⚡ <b>Fun Fact:</b> I built a fully normalized custom ERP system without a CMS.<br/>
-        🎓 <b>Education:</b> Reading BSc (Hons) CS & Higher Diploma in IT.
-      </p>
-      
-      <a href="https://lochanachamod.github.io" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=firefox&logoColor=64ffda&borderColor=64ffda" />
-      </a>
-      <a href="https://linkedin.com/in/lochana-chamod" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <a href="mailto:lochanachamod3@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
+    <td width="600" valign="center">
+<h3>👋 Hi, I'm Lochana.</h3>
+<p>
+I am a <b>Computer Science Undergraduate</b> (University of Bedfordshire Pathway) specializing in bridging the gap between mobile engineering and data science.
+</p>
+<p>
+Currently seeking an <b>Industrial Training Internship</b> to apply my skills in Java, Algorithms, and Full-Stack development.
+</p>
+<p>
+🔭 <b>I’m currently working on:</b> Offline-First Mobile Architectures<br/>
+🌱 <b>I’m currently learning:</b> Advanced Machine Learning Pipelines<br/>
+⚡ <b>Fun Fact:</b> I built a fully normalized custom ERP system without a CMS.<br/>
+🎓 <b>Education:</b> Reading BSc (Hons) CS & Higher Diploma in IT.
+</p>
+<a href="https://lochanachamod.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=firefox&logoColor=64ffda&borderColor=64ffda" /></a> <a href="https://linkedin.com/in/lochana-chamod" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:lochanachamod3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     </td>
   </tr>
 </table>
