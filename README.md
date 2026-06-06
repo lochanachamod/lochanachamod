@@ -110,15 +110,16 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
 <hr/>
 
 <details>
-<summary><h3>🎓 Education & Achievements (Click to Expand)</h3></summary>
+<summary><h3>💼 Experience, Education & Achievements (Click to Expand)</h3></summary>
 <br/>
 
-**University of Bedfordshire (UK)**
-* *BSc (Hons) Computer Science* (Reading - Top Up)
+**Professional Experience**
+* 🏢 **Sri Lanka Customs (RMU Unit)** - *Software Engineering Intern* (Completed)
 
-**SLIIT City Uni**
-* *Higher Diploma in IT* (Completed)
-* *Foundation Certificate in IT* (Completed - **First Class**)
+**Education**
+* 🎓 **University of Bedfordshire (UK)** - *BSc (Hons) Computer Science* (Reading - Top Up)
+* 🎓 **SLIIT City Uni** - *Higher Diploma in IT* (Completed)
+* 🎓 **SLIIT City Uni** - *Foundation Certificate in IT* (Completed - **First Class**)
 
 **Certifications**
 * 🏆 **AI & Machine Learning** (SLIIT City Uni)
