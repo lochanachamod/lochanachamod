@@ -24,16 +24,16 @@
     <td width="600" valign="center">
 <h3>👋 Hi, I'm Lochana.</h3>
 <p>
-I am a <b>Computer Science Undergraduate</b> (University of Bedfordshire Pathway) specializing in bridging the gap between mobile engineering and data science.
+I am a <b>Computer Science Undergraduate</b> (University of Bedfordshire Pathway) specializing in bridging the gap between software engineering, mobile architectures, and data science.
 </p>
 <p>
-Currently seeking an <b>Industrial Training Internship</b> to apply my skills in Java, Algorithms, and Full-Stack development.
+Having successfully completed my <b>Software Engineering Internship</b> at the <b>Sri Lanka Customs (RMNU Unit)</b>, I bring hands-on experience in building robust enterprise solutions.
 </p>
 <p>
-🔭 <b>I’m currently working on:</b> Offline-First Mobile Architectures<br/>
-🌱 <b>I’m currently learning:</b> Advanced Machine Learning Pipelines<br/>
+🔭 <b>I’m currently working on:</b> Advanced Enterprise Solutions & Full-Stack Apps<br/>
+🌱 <b>I’m currently learning:</b> Modern System Architectures & Machine Learning<br/>
 ⚡ <b>Fun Fact:</b> I built a fully normalized custom ERP system without a CMS.<br/>
-🎓 <b>Education:</b> Reading BSc (Hons) CS & Higher Diploma in IT.
+🎓 <b>Education:</b> Reading BSc (Hons) CS & Completed Higher Diploma in IT.
 </p>
 <a href="https://lochanachamod.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=firefox&logoColor=64ffda&borderColor=64ffda" /></a> <a href="https://linkedin.com/in/lochana-chamod" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:lochanachamod3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     </td>
@@ -47,22 +47,28 @@ Currently seeking an <b>Industrial Training Internship</b> to apply my skills in
 <div align="center">
   <table align="center">
     <tr>
-      <td align="center" width="120"><b>Languages</b></td>
-      <td><img src="https://skillicons.dev/icons?i=java,python,cpp,php,cs,js,html,css&theme=dark" /></td>
+      <td align="center" width="140"><b>Frontend & UI</b></td>
+      <td><img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,bootstrap,html,css,figma&theme=dark" /></td>
     </tr>
     <tr>
-      <td align="center" width="120"><b>App & Web</b></td>
-      <td><img src="https://skillicons.dev/icons?i=androidstudio,firebase,mysql,sqlite,bootstrap,figma&theme=dark" /></td>
+      <td align="center" width="140"><b>Backend & DB</b></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql,sqlite,firebase,php&theme=dark" /></td>
     </tr>
     <tr>
-      <td align="center" width="120"><b>Tools & OS</b></td>
-      <td><img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea&theme=dark" /></td>
+      <td align="center" width="140"><b>Languages</b></td>
+      <td><img src="https://skillicons.dev/icons?i=java,python,cpp,cs&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td align="center" width="140"><b>Tools & DevOps</b></td>
+      <td><img src="https://skillicons.dev/icons?i=docker,git,github,cypress,linux,vscode,idea&theme=dark" /></td>
     </tr>
   </table>
   
   <br/>
-  <img src="https://img.shields.io/badge/Data_Science-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Analysis-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full_Stack-Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/3D_Graphics-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-Machine%20Learning-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white" />
 </div>
 
@@ -72,10 +78,11 @@ Currently seeking an <b>Industrial Training Internship</b> to apply my skills in
 
 | 📂 Project | 💻 Tech Stack | 📝 Engineering Highlights |
 | :--- | :--- | :--- |
+| **[Ammehula Restaurant ERP](https://github.com/lochanachamod/ammehula-system)** | `Next.js` `Express` `PostgreSQL` `Prisma` `Docker` | **Lead Full Stack Engineer**. Architected a massive restaurant management system with 6 specialized subsystems including Smart Inventory ERP, real-time KDS via WebSockets, and dynamic GIS routing. |
+| **[Sri Lanka Customs AEO Portal](https://github.com/sankhaKarunasekara/aeo.customs.gov.lk)** | `Next.js` `Payload CMS` `Three.js` `Tailwind` | **Full Stack Engineering Intern**. Developed major frontend features, 3D Global Reach visualization, and CMS integrations. Merged into production on the main branch for Sri Lanka Customs. |
 | **ShipMate Logistics** | `Android` `Java` `SQLite` | **Offline-first architecture**. Engineered local database syncing for drivers without internet access. |
 | **GameSpotter Store** | `PHP` `MySQL` `WAMP` | **Normalized Database (ERD)**. Built a custom Admin Panel from scratch avoiding pre-built CMS tools. |
 | **AI Match Predictor** | `Python` `Pandas` `ML` | **Statistical Modeling**. Used historical data analysis to identify KPIs and forecast win-rates. |
-| **OSINT Geo-Tracker** | `Python` `REST APIs` | **Cybersecurity**. Automated metadata extraction and geolocation tracking via public API endpoints. |
 
 <hr/>
 
@@ -87,7 +94,7 @@ Currently seeking an <b>Industrial Training Internship</b> to apply my skills in
 * *BSc (Hons) Computer Science* (Reading - Top Up)
 
 **SLIIT City Uni**
-* *Higher Diploma in IT* (Current - Year 2 Sem 2)
+* *Higher Diploma in IT* (Completed)
 * *Foundation Certificate in IT* (Completed - **First Class**)
 
 **Certifications**
