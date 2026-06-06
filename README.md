@@ -57,9 +57,9 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,electron,prisma,postgres,mysql,sqlite,php&theme=dark" />
 <ul>
-  <li><b>Core Runtimes:</b> Node.js, Express.js 5, Electron.js (Desktop Architecture)</li>
+  <li><b>Core Runtimes & Languages:</b> Node.js, Express.js 5, Electron.js, Java, Python</li>
   <li><b>System Architecture:</b> REST API Design, Real-Time WebSockets (Socket.io)</li>
-  <li><b>AI & Machine Learning Integration:</b> Dual-Engine AI Architecture, Groq API (Cloud Inference), Ollama (Local/Offline Inference)</li>
+  <li><b>AI & Data Engineering:</b> Dual-Engine AI, Groq API, Ollama, Polars, Pandas, Streamlit</li>
   <li><b>Security & Auth:</b> JWT, Strict Role-Based Access Control (RBAC), bcrypt, ContextBridge IPC (Electron Sandboxing)</li>
   <li><b>Advanced Processing:</b> Native OCR (Tesseract.js), pdf-parse, Node-Cron (Background Jobs)</li>
 </ul>
@@ -70,7 +70,7 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
 <br/>
 <img src="https://skillicons.dev/icons?i=androidstudio,java,firebase,cpp,cs,python&theme=dark" />
 <ul>
-  <li><b>Databases & ORMs:</b> PostgreSQL (Prisma ORM), MySQL, SQLite</li>
+  <li><b>Databases & ORMs:</b> PostgreSQL (Prisma ORM), MySQL, SQLite, Neo4j (Graph Database)</li>
   <li><b>Cloud Solutions:</b> Firebase Cloud Firestore (NoSQL), Payload CMS (TypeScript-first Headless CMS)</li>
   <li><b>Native Mobile (Android):</b> Java (JDK 11), Android SDK, XML / Material Design</li>
   <li><b>Mobile Networking:</b> Retrofit2, Gson, Glide</li>
@@ -100,6 +100,75 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
   <img src="https://img.shields.io/badge/3D_Graphics-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-Machine%20Learning-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white" />
 </div>
+
+<hr/>
+
+<h2 align="center">🚀 Featured Engineering Projects</h2>
+
+<details>
+<summary><b>🤖 AI, Data Science & ETL Pipelines</b></summary>
+<br/>
+<table>
+  <tr>
+    <td width="30%"><b><a href="https://github.com/lochanachamod/LOC-AI">LOC-AI Assistant</a></b></td>
+    <td>Dual-Engine Desktop AI (Electron, Node.js, Groq, Ollama) featuring custom OCR extraction and strict IPC security sandboxing.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/lochanachamod/LocAI-SyndicateHunter.git">LocAI Trade Risk Monitor</a></b></td>
+    <td>Python, Neo4j & Polars-based Graph Theory Intelligence Platform using advanced Cypher heuristics to detect organized fraud rings.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/lochanachamod/RMDB">RMDB Syndicate Hunter</a></b></td>
+    <td>High-volume Java ETL Pipeline & Python/Streamlit Dashboard with Scikit-Learn Machine Learning anomaly detection.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/lochanachamod/CusDec-Document-Creator">CusDec Document Creator</a></b></td>
+    <td>Python Pandas ETL data-normalization pipeline paired with a React frontend to dynamically generate valid Customs XML files.</td>
+  </tr>
+  <tr>
+    <td><b>RMS Simulator</b></td>
+    <td>Java-based Risk Management Selectivity Simulator.</td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary><b>🌍 Enterprise Full-Stack Web Applications</b></summary>
+<br/>
+<table>
+  <tr>
+    <td width="30%"><b><a href="https://github.com/lochanachamod/ammehula-system">Ammehula Restaurant ERP</a></b></td>
+    <td>Massive Next.js, Express, and PostgreSQL system with WebSockets, 6 specialized subsystems, and GIS mapping logistics.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/lochanachamod/Sri-Lanka-Customs-AEO">Sri Lanka Customs AEO</a></b></td>
+    <td>Next.js and Payload CMS portal featuring a 3D global visualization engine powered by Three.js.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/lochanachamod/clothes-manager">Clothes Manager</a></b></td>
+    <td>Offline-first React & Zustand distributed inventory logistics system utilizing ultra-fast LocalStorage persistence.</td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary><b>📱 Native Mobile & UI Engineering</b></summary>
+<br/>
+<table>
+  <tr>
+    <td width="30%"><b><a href="https://github.com/lochanachamod/FilmFolio">FilmFolio</a></b></td>
+    <td>Native Android Java app with Firebase cloud-sync and dual-API integration (TMDb and YouTube API).</td>
+  </tr>
+  <tr>
+    <td><b>Readify</b></td>
+    <td>Native Android Java personal library & book discovery app.</td>
+  </tr>
+  <tr>
+    <td><b>Valentine Surprise</b></td>
+    <td>Interactive, highly-animated frontend web UI with Lottie integrations.</td>
+  </tr>
+</table>
+</details>
 
 <hr/>
 
