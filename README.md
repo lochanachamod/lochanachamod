@@ -117,18 +117,7 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
     <td><b><a href="https://github.com/lochanachamod/LocAI-SyndicateHunter.git">LocAI Trade Risk Monitor</a></b></td>
     <td>Python, Neo4j & Polars-based Graph Theory Intelligence Platform using advanced Cypher heuristics to detect organized fraud rings.</td>
   </tr>
-  <tr>
-    <td><b><a href="https://github.com/lochanachamod/RMDB">RMDB Syndicate Hunter</a></b></td>
-    <td>High-volume Java ETL Pipeline & Python/Streamlit Dashboard with Scikit-Learn Machine Learning anomaly detection.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/lochanachamod/CusDec-Document-Creator">CusDec Document Creator</a></b></td>
-    <td>Python Pandas ETL data-normalization pipeline paired with a React frontend to dynamically generate valid Customs XML files.</td>
-  </tr>
-  <tr>
-    <td><b>RMS Simulator</b></td>
-    <td>Java-based Risk Management Selectivity Simulator.</td>
-  </tr>
+
 </table>
 </details>
 
