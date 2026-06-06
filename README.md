@@ -110,11 +110,11 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
 <br/>
 <table>
   <tr>
-    <td width="30%"><b><a href="https://github.com/lochanachamod/LOC-AI">LOC-AI Assistant</a></b></td>
+    <td width="30%"><b>LOC-AI Assistant</b></td>
     <td>Dual-Engine Desktop AI (Electron, Node.js, Groq, Ollama) featuring custom OCR extraction and strict IPC security sandboxing.</td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/lochanachamod/LocAI-SyndicateHunter.git">LocAI Trade Risk Monitor</a></b></td>
+    <td><b>LocAI Trade Risk Monitor</b></td>
     <td>Python, Neo4j & Polars-based Graph Theory Intelligence Platform using advanced Cypher heuristics to detect organized fraud rings.</td>
   </tr>
 
@@ -126,15 +126,15 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
 <br/>
 <table>
   <tr>
-    <td width="30%"><b><a href="https://github.com/lochanachamod/ammehula-system">Ammehula Restaurant ERP</a></b></td>
+    <td width="30%"><b>Ammehula Restaurant ERP</b></td>
     <td>Massive Next.js, Express, and PostgreSQL system with WebSockets, 6 specialized subsystems, and GIS mapping logistics.</td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/lochanachamod/Sri-Lanka-Customs-AEO">Sri Lanka Customs AEO</a></b></td>
+    <td><b>Sri Lanka Customs AEO</b></td>
     <td>Next.js and Payload CMS portal featuring a 3D global visualization engine powered by Three.js.</td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/lochanachamod/clothes-manager">Clothes Manager</a></b></td>
+    <td><b>Clothes Manager</b></td>
     <td>Offline-first React & Zustand distributed inventory logistics system utilizing ultra-fast LocalStorage persistence.</td>
   </tr>
 </table>
@@ -145,7 +145,7 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
 <br/>
 <table>
   <tr>
-    <td width="30%"><b><a href="https://github.com/lochanachamod/FilmFolio">FilmFolio</a></b></td>
+    <td width="30%"><b>FilmFolio</b></td>
     <td>Native Android Java app with Firebase cloud-sync and dual-API integration (TMDb and YouTube API).</td>
   </tr>
   <tr>
