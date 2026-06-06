@@ -182,19 +182,6 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
 
 <hr/>
 
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<div align="center">
-  <img src="https://ghrs.vercel.app/api?username=lochanachamod&show_icons=true&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0" height="180" />
-  <img src="https://ghrs.vercel.app/api/top-langs/?username=lochanachamod&layout=compact&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=8892b0&langs_count=6" height="180" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lochanachamod&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0" />
-</div>
-
 
 
 <div align="center">
