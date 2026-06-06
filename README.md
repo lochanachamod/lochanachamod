@@ -8,13 +8,7 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lochanachamod&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=15&margin-h=15" width="800" />
-  </a>
-</div>
 
-<br/>
 
 <table border="0" align="center">
   <tr>
@@ -140,7 +134,7 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lochanachamod&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideNums=8892b0&dates=8892b0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lochanachamod&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0" />
 </div>
 
 
