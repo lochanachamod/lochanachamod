@@ -80,10 +80,10 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
 
 | 📂 Project | 💻 Tech Stack | 📝 Engineering Highlights |
 | :--- | :--- | :--- |
-| **[LOC-AI Assistant](https://github.com/lochanachamod/LOC-AI)** | `Electron` `Node.js` `Ollama` `Groq` | **Lead Software Engineer**. Architected a cross-platform desktop AI with local offline models, real-time HTTP streaming, strict IPC security, and custom OCR extraction. |
-| **[Ammehula Restaurant ERP](https://github.com/lochanachamod/ammehula-system)** | `Next.js` `Express` `PostgreSQL` `Prisma` | **Lead Full Stack Engineer**. Engineered a massive restaurant management system with 6 specialized subsystems, real-time KDS via WebSockets, and dynamic GIS routing. |
-| **[Customs AEO Portal](https://github.com/sankhaKarunasekara/aeo.customs.gov.lk)** | `Next.js` `Payload CMS` `Three.js` | **Full Stack Engineering Intern**. Developed major frontend features, 3D Global Reach visualization, and CMS integrations for Sri Lanka Customs. |
-| **[FilmFolio App](https://github.com/lochanachamod/FilmFolio)** | `Android` `Java` `Firebase` `Retrofit` | **Lead Mobile Developer**. Cinematic movie discovery app with dual-API integration (TMDb & YouTube), cloud-synced Firestore watchlists, and enterprise-grade API security. |
+| **LOC-AI Assistant** | `Electron` `Node.js` `Ollama` `Groq` | **Lead Software Engineer**. Architected a cross-platform desktop AI with local offline models, real-time HTTP streaming, strict IPC security, and custom OCR extraction. |
+| **Ammehula Restaurant ERP** | `Next.js` `Express` `PostgreSQL` `Prisma` | **Lead Full Stack Engineer**. Engineered a massive restaurant management system with 6 specialized subsystems, real-time KDS via WebSockets, and dynamic GIS routing. |
+| **Customs AEO Portal** | `Next.js` `Payload CMS` `Three.js` | **Full Stack Engineering Intern**. Developed major frontend features, 3D Global Reach visualization, and CMS integrations for Sri Lanka Customs. |
+| **FilmFolio App** | `Android` `Java` `Firebase` `Retrofit` | **Lead Mobile Developer**. Cinematic movie discovery app with dual-API integration (TMDb & YouTube), cloud-synced Firestore watchlists, and enterprise-grade API security. |
 
 <hr/>
 
