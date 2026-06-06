@@ -142,25 +142,7 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lochanachamod&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideNums=8892b0&dates=8892b0" />
 </div>
 
-<br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lochanachamod&theme=react-dark&hide_border=true&bg_color=0a192f&color=64ffda&line=64ffda&point=ffffff" />
-</div>
-
-<br/>
-
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lochanachamod/lochanachamod/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lochanachamod/lochanachamod/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lochanachamod/lochanachamod/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=100&section=footer" />
