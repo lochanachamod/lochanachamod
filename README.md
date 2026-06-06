@@ -48,7 +48,7 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
   <table align="center">
     <tr>
       <td align="center" width="140"><b>Frontend & UI</b></td>
-      <td><img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,bootstrap,html,css,figma&theme=dark" /></td>
+      <td><img src="https://skillicons.dev/icons?i=nextjs,react,electron,ts,js,tailwind,bootstrap,html,css,figma&theme=dark" /></td>
     </tr>
     <tr>
       <td align="center" width="140"><b>Backend & DB</b></td>
@@ -66,6 +66,8 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
   
   <br/>
   <img src="https://img.shields.io/badge/Full_Stack-Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Desktop-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/DevOps-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/3D_Graphics-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
@@ -78,11 +80,10 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
 
 | 📂 Project | 💻 Tech Stack | 📝 Engineering Highlights |
 | :--- | :--- | :--- |
-| **[Ammehula Restaurant ERP](https://github.com/lochanachamod/ammehula-system)** | `Next.js` `Express` `PostgreSQL` `Prisma` `Docker` | **Lead Full Stack Engineer**. Architected a massive restaurant management system with 6 specialized subsystems including Smart Inventory ERP, real-time KDS via WebSockets, and dynamic GIS routing. |
-| **[Sri Lanka Customs AEO Portal](https://github.com/sankhaKarunasekara/aeo.customs.gov.lk)** | `Next.js` `Payload CMS` `Three.js` `Tailwind` | **Full Stack Engineering Intern**. Developed major frontend features, 3D Global Reach visualization, and CMS integrations. Merged into production on the main branch for Sri Lanka Customs. |
-| **ShipMate Logistics** | `Android` `Java` `SQLite` | **Offline-first architecture**. Engineered local database syncing for drivers without internet access. |
-| **GameSpotter Store** | `PHP` `MySQL` `WAMP` | **Normalized Database (ERD)**. Built a custom Admin Panel from scratch avoiding pre-built CMS tools. |
-| **AI Match Predictor** | `Python` `Pandas` `ML` | **Statistical Modeling**. Used historical data analysis to identify KPIs and forecast win-rates. |
+| **[LOC-AI Assistant](https://github.com/lochanachamod/LOC-AI)** | `Electron` `Node.js` `Ollama` `Groq` | **Lead Software Engineer**. Architected a cross-platform desktop AI with local offline models, real-time HTTP streaming, strict IPC security, and custom OCR extraction. |
+| **[Ammehula Restaurant ERP](https://github.com/lochanachamod/ammehula-system)** | `Next.js` `Express` `PostgreSQL` `Prisma` | **Lead Full Stack Engineer**. Engineered a massive restaurant management system with 6 specialized subsystems, real-time KDS via WebSockets, and dynamic GIS routing. |
+| **[Customs AEO Portal](https://github.com/sankhaKarunasekara/aeo.customs.gov.lk)** | `Next.js` `Payload CMS` `Three.js` | **Full Stack Engineering Intern**. Developed major frontend features, 3D Global Reach visualization, and CMS integrations for Sri Lanka Customs. |
+| **[FilmFolio App](https://github.com/lochanachamod/FilmFolio)** | `Android` `Java` `Firebase` `Retrofit` | **Lead Mobile Developer**. Cinematic movie discovery app with dual-API integration (TMDb & YouTube), cloud-synced Firestore watchlists, and enterprise-grade API security. |
 
 <hr/>
 
