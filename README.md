@@ -45,7 +45,7 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
 <ul>
   <li><b>Frameworks & Core:</b> React 19, Next.js 16 (App Router), Vanilla JS (ES6+)</li>
   <li><b>Styling & UI Components:</b> Tailwind CSS v4, Shadcn UI, Radix UI, Glassmorphism Aesthetics</li>
-  <li><b>State & Data Management:</b> TanStack React Query v5, React Context API</li>
+  <li><b>State & Data Management:</b> TanStack React Query v5, React Context API, Zustand</li>
   <li><b>3D & Animations:</b> Three.js, React Three Fiber, Framer Motion, Lottie</li>
   <li><b>Mapping & Geospatial:</b> Leaflet, React-Leaflet, Turf.js</li>
   <li><b>Interactive & Advanced:</b> WebSockets (Socket.io Client), Recharts, jsPDF, DnD Kit, PWA Integration</li>
@@ -59,7 +59,7 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
 <ul>
   <li><b>Core Runtimes & Languages:</b> Node.js, Express.js 5, Electron.js, Java, Python</li>
   <li><b>System Architecture:</b> REST API Design, Real-Time WebSockets (Socket.io)</li>
-  <li><b>AI & Data Engineering:</b> Dual-Engine AI, Groq API, Ollama, Polars, Pandas, Streamlit</li>
+  <li><b>AI & Data Engineering:</b> Dual-Engine AI, Groq API, Ollama, Polars, Pandas, Streamlit, NetworkX, Scikit-Learn</li>
   <li><b>Security & Auth:</b> JWT, Strict Role-Based Access Control (RBAC), bcrypt, ContextBridge IPC (Electron Sandboxing)</li>
   <li><b>Advanced Processing:</b> Native OCR (Tesseract.js), pdf-parse, Node-Cron (Background Jobs)</li>
 </ul>
@@ -84,7 +84,7 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
 <ul>
   <li><b>Containerization & Deployment:</b> Docker, Docker Compose, electron-builder (NSIS)</li>
   <li><b>Testing & QA:</b> Cypress (E2E), Playwright, Vitest</li>
-  <li><b>Build Tools & Package Managers:</b> npm, pnpm, Gradle Kotlin DSL</li>
+  <li><b>Build Tools & Package Managers:</b> Vite, npm, pnpm, Gradle Kotlin DSL</li>
   <li><b>Version Control & Workflow:</b> Git, GitHub Actions, release-it</li>
 </ul>
 </details>
