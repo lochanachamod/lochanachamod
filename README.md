@@ -42,29 +42,62 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
 
 <hr/>
 
-<h3 align="center">🛠️ Technical Arsenal</h3>
+<h3 align="center">🛠️ Comprehensive Technical Arsenal</h3>
+
+<details open>
+<summary><b>🌐 Frontend & UI Architecture</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,bootstrap,html,css,figma&theme=dark" />
+<ul>
+  <li><b>Frameworks & Core:</b> React 19, Next.js 16 (App Router), Vanilla JS (ES6+)</li>
+  <li><b>Styling & UI Components:</b> Tailwind CSS v4, Shadcn UI, Radix UI, Glassmorphism Aesthetics</li>
+  <li><b>State & Data Management:</b> TanStack React Query v5, React Context API</li>
+  <li><b>3D & Animations:</b> Three.js, React Three Fiber, Framer Motion, Lottie</li>
+  <li><b>Mapping & Geospatial:</b> Leaflet, React-Leaflet, Turf.js</li>
+  <li><b>Interactive & Advanced:</b> WebSockets (Socket.io Client), Recharts, jsPDF, DnD Kit, PWA Integration</li>
+</ul>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend, AI & API Engineering</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,electron,prisma,postgres,mysql,sqlite,php&theme=dark" />
+<ul>
+  <li><b>Core Runtimes:</b> Node.js, Express.js 5, Electron.js (Desktop Architecture)</li>
+  <li><b>System Architecture:</b> REST API Design, Real-Time WebSockets (Socket.io)</li>
+  <li><b>AI & Machine Learning Integration:</b> Dual-Engine AI Architecture, Groq API (Cloud Inference), Ollama (Local/Offline Inference)</li>
+  <li><b>Security & Auth:</b> JWT, Strict Role-Based Access Control (RBAC), bcrypt, ContextBridge IPC (Electron Sandboxing)</li>
+  <li><b>Advanced Processing:</b> Native OCR (Tesseract.js), pdf-parse, Node-Cron (Background Jobs)</li>
+</ul>
+</details>
+
+<details open>
+<summary><b>🗄️ Database, Cloud & Mobile</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=androidstudio,java,firebase,cpp,cs,python&theme=dark" />
+<ul>
+  <li><b>Databases & ORMs:</b> PostgreSQL (Prisma ORM), MySQL, SQLite</li>
+  <li><b>Cloud Solutions:</b> Firebase Cloud Firestore (NoSQL), Payload CMS (TypeScript-first Headless CMS)</li>
+  <li><b>Native Mobile (Android):</b> Java (JDK 11), Android SDK, XML / Material Design</li>
+  <li><b>Mobile Networking:</b> Retrofit2, Gson, Glide</li>
+</ul>
+</details>
+
+<details open>
+<summary><b>🛠️ DevOps, Testing & Tooling</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,cypress,linux,vscode,idea&theme=dark" />
+<ul>
+  <li><b>Containerization & Deployment:</b> Docker, Docker Compose, electron-builder (NSIS)</li>
+  <li><b>Testing & QA:</b> Cypress (E2E), Playwright, Vitest</li>
+  <li><b>Build Tools & Package Managers:</b> npm, pnpm, Gradle Kotlin DSL</li>
+  <li><b>Version Control & Workflow:</b> Git, GitHub Actions, release-it</li>
+</ul>
+</details>
+
+<br/>
 
 <div align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="140"><b>Frontend & UI</b></td>
-      <td><img src="https://skillicons.dev/icons?i=nextjs,react,electron,ts,js,tailwind,bootstrap,html,css,figma&theme=dark" /></td>
-    </tr>
-    <tr>
-      <td align="center" width="140"><b>Backend & DB</b></td>
-      <td><img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql,sqlite,firebase,php&theme=dark" /></td>
-    </tr>
-    <tr>
-      <td align="center" width="140"><b>Languages</b></td>
-      <td><img src="https://skillicons.dev/icons?i=java,python,cpp,cs&theme=dark" /></td>
-    </tr>
-    <tr>
-      <td align="center" width="140"><b>Tools & DevOps</b></td>
-      <td><img src="https://skillicons.dev/icons?i=docker,git,github,cypress,linux,vscode,idea&theme=dark" /></td>
-    </tr>
-  </table>
-  
-  <br/>
   <img src="https://img.shields.io/badge/Full_Stack-Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Desktop-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
   <img src="https://img.shields.io/badge/Mobile-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
@@ -73,17 +106,6 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
   <img src="https://img.shields.io/badge/3D_Graphics-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-Machine%20Learning-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white" />
 </div>
-
-<hr/>
-
-<h3 align="center">🚀 Featured Engineering Projects</h3>
-
-| 📂 Project | 💻 Tech Stack | 📝 Engineering Highlights |
-| :--- | :--- | :--- |
-| **LOC-AI Assistant** | `Electron` `Node.js` `Ollama` `Groq` | **Lead Software Engineer**. Architected a cross-platform desktop AI with local offline models, real-time HTTP streaming, strict IPC security, and custom OCR extraction. |
-| **Ammehula Restaurant ERP** | `Next.js` `Express` `PostgreSQL` `Prisma` | **Lead Full Stack Engineer**. Engineered a massive restaurant management system with 6 specialized subsystems, real-time KDS via WebSockets, and dynamic GIS routing. |
-| **Customs AEO Portal** | `Next.js` `Payload CMS` `Three.js` | **Full Stack Engineering Intern**. Developed major frontend features, 3D Global Reach visualization, and CMS integrations for Sri Lanka Customs. |
-| **FilmFolio App** | `Android` `Java` `Firebase` `Retrofit` | **Lead Mobile Developer**. Cinematic movie discovery app with dual-API integration (TMDb & YouTube), cloud-synced Firestore watchlists, and enterprise-grade API security. |
 
 <hr/>
 
