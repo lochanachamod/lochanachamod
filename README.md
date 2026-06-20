@@ -55,13 +55,13 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
 <details open>
 <summary><b>⚙️ Backend, AI & API Engineering</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,electron,prisma,postgres,mysql,sqlite,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=rust,nodejs,express,electron,prisma,postgres,mysql,sqlite,php&theme=dark" />
 <ul>
-  <li><b>Core Runtimes & Languages:</b> Node.js, Express.js 5, Electron.js, Java, Python</li>
-  <li><b>System Architecture:</b> REST API Design, Real-Time WebSockets (Socket.io)</li>
+  <li><b>Core Runtimes & Languages:</b> Rust (Tokio), Node.js, Express.js 5, Electron.js, Java, Python</li>
+  <li><b>System Architecture:</b> Distributed Systems (Raft Consensus), Zero-Copy Architecture, Event Streaming Brokers, REST API Design, Real-Time WebSockets, Raw TCP Sockets</li>
   <li><b>AI & Data Engineering:</b> Dual-Engine AI, Groq API, Ollama, Polars, Pandas, Streamlit, NetworkX, Scikit-Learn</li>
-  <li><b>Security & Auth:</b> JWT, Strict Role-Based Access Control (RBAC), bcrypt, ContextBridge IPC (Electron Sandboxing)</li>
-  <li><b>Advanced Processing:</b> Native OCR (Tesseract.js), pdf-parse, Node-Cron (Background Jobs)</li>
+  <li><b>Security & Auth:</b> Zero-Trust Security Firewalls, JWT, Strict Role-Based Access Control (RBAC), bcrypt, ContextBridge IPC</li>
+  <li><b>Advanced Processing:</b> Memory Mapping (mmap), Protocol Buffers (Protobuf), Native OCR (Tesseract.js), pdf-parse, Node-Cron</li>
 </ul>
 </details>
 
@@ -80,18 +80,20 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
 <details open>
 <summary><b>🛠️ DevOps, Testing & Tooling</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,cypress,linux,vscode,idea&theme=dark" />
+<img src="https://skillicons.dev/icons?i=bash,docker,git,github,cypress,linux,vscode,idea&theme=dark" />
 <ul>
   <li><b>Containerization & Deployment:</b> Docker, Docker Compose, electron-builder (NSIS)</li>
   <li><b>Testing & QA:</b> Cypress (E2E), Playwright, Vitest</li>
-  <li><b>Build Tools & Package Managers:</b> Vite, npm, pnpm, Gradle Kotlin DSL</li>
+  <li><b>Build Tools & Package Managers:</b> Vite, npm, pnpm, Gradle Kotlin DSL, Cargo</li>
   <li><b>Version Control & Workflow:</b> Git, GitHub Actions, release-it</li>
+  <li><b>OS & Scripting:</b> Shell Scripting (Bash), Windows Subsystem for Linux (WSL)</li>
 </ul>
 </details>
 
 <br/>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Systems-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Full_Stack-Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Desktop-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
   <img src="https://img.shields.io/badge/Mobile-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
@@ -104,6 +106,17 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
 <hr/>
 
 <h2 align="center">🚀 Featured Engineering Projects</h2>
+
+<details open>
+<summary><b>⚡ Distributed Systems & Core Infrastructure</b></summary>
+<br/>
+<table>
+  <tr>
+    <td width="30%"><b><a href="https://github.com/lochanachamod/corestream">CoreStream</a></b></td>
+    <td>High-performance, fault-tolerant Distributed Event Streaming Engine built from scratch in <b>Rust</b>, featuring <b>Raft Consensus</b>, <b>Zero-Copy Architecture</b>, and multi-language Client SDKs (Node.js, Python). Bypasses JVM overhead for raw OS-level memory mapping.</td>
+  </tr>
+</table>
+</details>
 
 <details>
 <summary><b>🤖 AI, Data Science & ETL Pipelines</b></summary>
