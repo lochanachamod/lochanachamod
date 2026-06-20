@@ -112,7 +112,7 @@ Having successfully completed my <b>Software Engineering Internship</b> at the <
 <br/>
 <table>
   <tr>
-    <td width="30%"><b><a href="https://github.com/lochanachamod/corestream">CoreStream</a></b></td>
+    <td width="30%"><b>CoreStream</b></td>
     <td>High-performance, fault-tolerant Distributed Event Streaming Engine built from scratch in <b>Rust</b>, featuring <b>Raft Consensus</b>, <b>Zero-Copy Architecture</b>, and multi-language Client SDKs (Node.js, Python). Bypasses JVM overhead for raw OS-level memory mapping.</td>
   </tr>
 </table>
