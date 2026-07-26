@@ -11,7 +11,7 @@ Full-Stack Engineering · Web Platforms · Backend Systems
 **PREVIOUSLY** Software Engineering · Sri Lanka Customs  
 
 
-[Portfolio](https://lochanachamod.github.io/) · [LinkedIn](https://linkedin.com/in/lochana-chamod) · [Email](mailto:lochanachamod3@gmail.com)
+[Portfolio](https://lochanachamod.github.io/) · [LinkedIn](https://linkedin.com/in/lochana-chamod) · [CV](https://lochanachamod.github.io/assets/docs/Lochana_Chamod_CV.pdf) · [Email](mailto:lochanachamod3@gmail.com)
 
 ## About
 I'm a Software Developer at Eternal Hosting, building and improving production web platforms across frontend and backend engineering.
