@@ -9,7 +9,7 @@ Full-Stack Engineering · Web Platforms · Backend Systems
 ---
 **CURRENTLY** Software Developer · Eternal Hosting  
 **PREVIOUSLY** Software Engineering · Sri Lanka Customs  
----
+
 
 [Portfolio](https://lochanachamod.github.io/) · [LinkedIn](https://linkedin.com/in/lochana-chamod) · [Email](mailto:lochanachamod3@gmail.com)
 
